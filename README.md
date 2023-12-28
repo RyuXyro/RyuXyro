@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning: Coding bot
 - 💞️ I’m looking to collaborate on: Discord And Github
 
-People That see my Github:
+People That see my Github:<br>
 <a href="https://github.com/RyuXyro">
     <img alt="Cute count" src="https://moe.isekai.eu.org/get/@ryuxyro?theme=asoul"/>
   </a>
