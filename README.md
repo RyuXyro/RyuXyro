@@ -2,9 +2,8 @@
 - 👀 I’m interested in: Coding bot with script
 - 🌱 I’m currently learning: Coding bot
 - 💞️ I’m looking to collaborate on: Discord And Github
-- 📫 How to reach me
-- Me on Discord = KazuoYuuka#0799 / RyuXyro#6187
 
+People That see my Github:
 <a href="https://github.com/RyuXyro">
     <img alt="Cute count" src="https://moe.isekai.eu.org/get/@ryuxyro?theme=asoul"/>
   </a>
