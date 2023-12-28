@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on: Discord And Github
 - 📫 How to reach me
 - Me on Discord = KazuoYuuka#0799 / RyuXyro#6187
-- Me on Instagram = https://www.instagram.com/kazuo_yuuka/?hl=id
+
+- (https://github.com/RyuXyro)[https://count.getloli.com/get/@:ryuxyro?theme=asoul]
 
 <!---
 RyuXyro/RyuXyro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
