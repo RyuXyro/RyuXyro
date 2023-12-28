@@ -5,8 +5,9 @@
 - 📫 How to reach me
 - Me on Discord = KazuoYuuka#0799 / RyuXyro#6187
 
-- (https://github.com/RyuXyro)[https://count.getloli.com/get/@:ryuxyro?theme=asoul]
-
+<a href="https://github.com/RyuXyro">
+    <img alt="Cute count" src="https://moe.isekai.eu.org/get/@ryuxyro?theme=asoul"/>
+  </a>
 <!---
 RyuXyro/RyuXyro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
