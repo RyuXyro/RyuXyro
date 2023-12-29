@@ -2,6 +2,9 @@
 - 👀 I’m interested in: Coding bot with script
 - 🌱 I’m currently learning: Coding bot
 - 💞️ I’m looking to collaborate on: Discord And Github
+
+<hr>
+
 ```javascript
 export default class about_me {
     onInit() {
@@ -13,6 +16,9 @@ export default class about_me {
 }
 console.log("Hello All 👋")
 ```
+
+<hr>
+
 People That see my Github:<br>
 <a href="https://github.com/RyuXyro">
     <img alt="Cute count" src="https://moe.isekai.eu.org/get/@ryuxyro?theme=asoul"/>
