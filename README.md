@@ -37,7 +37,7 @@ console.log("Hello All 👋")
 
 People That see my Github:<br>
 <a href="https://github.com/RyuXyro">
-    <img alt="Cute count" src="https://moe.isekai.eu.org/get/@ryuxyro?theme=asoul"/>
+    <img alt="Cute count" src="http://moe-count.glitch.me/get/@ryuxyro?theme=rule34"/>
   </a>
 <!---
 RyuXyro/RyuXyro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
