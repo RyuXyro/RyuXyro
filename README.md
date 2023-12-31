@@ -17,6 +17,11 @@
     <img align="center" alt="RyuXyro Github Trophy" src="https://piala.isekai.eu.org/?username=RyuXyro&theme=tokyonight&row=2&column=4&no-frame=true"/>
   </a>
   <br>
+  <br>
+    <a href="https://github.com/RyuXyro">
+        <img align="center" alt="RyuXyro Top Language" src="https://dibaca.isekai.eu.org/api/top-langs/?username=RyuXyro&theme=tokyonight&langs_count=6&hide_progress=true&hide=markdown,yaml,json,pascal,shell,batchfile,html,css,c&hide_border=true"/>
+    </a>
+  <br>
 </details>
 <br>
 
