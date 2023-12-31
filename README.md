@@ -5,10 +5,8 @@
 
 <hr>
 
-<div align="center">
-    <b>📝 My Statistics</b>
-    <br/>
-    <br/>
+<details align="center">
+    <summary><b>📝 My Statistics</b> (click here)</summary>
     <br/>
   <a href="https://github.com/RyuXyro">
     <img align="center" alt="RyuXyro Stats" src="https://dibaca.isekai.eu.org/api?username=RyuXyro&show_icons=true&rank_icon=percentile&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=21600&show=prs_merged,prs_merged_percentage&hide_border=true"/>
@@ -19,7 +17,7 @@
     <img align="center" alt="RyuXyro Github Trophy" src="https://piala.isekai.eu.org/?username=RyuXyro&theme=tokyonight&row=2&column=4&no-frame=true"/>
   </a>
   <br>
-</div>
+</details>
 <br>
 
 <hr>
