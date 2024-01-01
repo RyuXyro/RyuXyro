@@ -12,16 +12,13 @@
     <img align="center" alt="RyuXyro Stats" src="https://dibaca.isekai.eu.org/api?username=RyuXyro&show_icons=true&rank_icon=percentile&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=21600&show=prs_merged,prs_merged_percentage&hide_border=true"/>
   </a>
   <br>
-  <br>
   <a href="https://github.com/RyuXyro">
     <img align="center" alt="RyuXyro Github Trophy" src="https://piala.isekai.eu.org/?username=RyuXyro&theme=tokyonight&row=2&column=4&no-frame=true"/>
   </a>
   <br>
-  <br>
     <a href="https://github.com/RyuXyro">
-        <img align="center" alt="RyuXyro Top Language" src="https://dibaca.isekai.eu.org/api/top-langs/?username=RyuXyro&theme=tokyonight&langs_count=6&hide_progress=true&hide=markdown,yaml,json,pascal,shell,batchfile,html,css,c&hide_border=true"/>
+        <img align="center" alt="RyuXyro Top Language" src="https://dibaca.isekai.eu.org/api/top-langs/?username=RyuXyro&theme=tokyonight&layout=compact&hide_border=true"/>
     </a>
-  <br>
 </details>
 <br>
 
