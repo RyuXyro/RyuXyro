@@ -32,6 +32,11 @@ export default class about_me {
         this.user_country = "Indonesia"
         this.user_language = ["English", "Indonesia"]
     }
+    onProgramming(){
+        this.program_language = ["JavaScript", "TypeScript", "HTML", "CSS"]
+        this.developer_tools = ["Github", "VS Code", "SQLite", "MongoDB"]
+        this.operating_system = "Windows 10"
+    }
 }
 console.log("Hello All 👋")
 ```
