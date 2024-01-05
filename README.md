@@ -43,7 +43,7 @@ console.log("Hello All 👋")
 
 <hr>
 
-People That see my Github:<br>
+Cute Counting:<br>
 <a href="https://github.com/RyuXyro">
     <img alt="Cute count" src="http://moe-count.glitch.me/get/@ryuxyro?theme=rule34"/>
   </a>
