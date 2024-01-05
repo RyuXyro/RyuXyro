@@ -24,7 +24,7 @@
 
 <hr>
 
-```javascript
+```typescript
 export default class about_me {
     onInit() {
         this.user_name = "Risky Aditiya Pramono"
@@ -32,7 +32,7 @@ export default class about_me {
         this.user_country = "Indonesia"
         this.user_language = ["English", "Indonesia"]
     }
-    onProgramming(){
+    onProgramming() {
         this.program_language = ["JavaScript", "TypeScript", "HTML", "CSS"]
         this.developer_tools = ["Github", "VS Code", "SQLite", "MongoDB"]
         this.operating_system = "Windows 10"
