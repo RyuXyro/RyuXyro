@@ -17,7 +17,7 @@
   </a>
   <br>
     <a href="https://github.com/RyuXyro">
-        <img align="center" alt="RyuXyro Top Language" src="https://dibaca.isekai.eu.org/api/top-langs/?username=RyuXyro&theme=tokyonight&layout=compact&hide_border=true"/>
+        <img align="center" alt="RyuXyro Top Language" src=""/>
     </a>
 </details>
 <br>
