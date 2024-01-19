@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RyuXyro
-- 👀 I’m interested in: You
+- 👀 I’m interested on: You
 - 🌱 I’m currently learning: JavaScript, TypeScript
 - 💞️ I’m looking to collaborate on: Discord And Github
 
