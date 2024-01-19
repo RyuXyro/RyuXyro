@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RyuXyro
-- 👀 I’m interested in: Coding bot with script
-- 🌱 I’m currently learning: Coding bot
+- 👀 I’m interested in: You
+- 🌱 I’m currently learning: JavaScript, TypeScript
 - 💞️ I’m looking to collaborate on: Discord And Github
 
 <hr>
