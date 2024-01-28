@@ -35,7 +35,6 @@ export default class about_me {
         this.user_age = 15
         this.user_country = "Indonesia"
         this.user_language = ["English", "Indonesia"]
-        this.role_model = "zYxDevs"
     }
     onProgramming() {
         this.program_language = ["JavaScript", "TypeScript", "HTML", "CSS"]
