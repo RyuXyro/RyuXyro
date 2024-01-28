@@ -19,6 +19,10 @@
     <a href="https://github.com/RyuXyro">
         <img align="center" alt="RyuXyro Top Language" src="https://dibaca.isekai.eu.org/api/top-langs/?username=RyuXyro&theme=tokyonight&layout=compact&hide_border=true"/>
     </a>
+    <br>
+    <a href="https://github.com/RyuXyro">
+        <img align="center" alt="Fake wakatime" src="https://dibaca.isekai.eu.org/api/wakatime?username=RyuXyro&layout=compact&theme=tokyonight&hide_border=true">
+    </a>
 </details>
 <br>
 
