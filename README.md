@@ -52,6 +52,7 @@ Cute Counting:<br>
 <a href="https://github.com/RyuXyro">
     <img alt="Cute count" src="http://moe-count.glitch.me/get/@ryuxyro?theme=rule34"/>
   </a>
+![](https://hit.yhype.me/github/profile?user_id=131745729)
 <!---
 RyuXyro/RyuXyro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
