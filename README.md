@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RyuXyro
 - 👀 I’m interested on: You
-- 🌱 I’m currently learning: JavaScript, TypeScript
+- 🌱 I’m currently learning: CSharp
 - 💞️ I’m looking to collaborate on: Discord And Github
 
 <hr>
