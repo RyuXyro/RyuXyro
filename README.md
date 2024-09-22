@@ -32,7 +32,7 @@
 export default class about_me {
     onInit() {
         this.user_name = "Risky Aditiya Pramono"
-        this.user_age = 15
+        this.user_age = 16
         this.user_country = "Indonesia"
         this.user_language = ["English", "Indonesia"]
         this.user_quotes = "A person who never made a mistake never tried anything new."
