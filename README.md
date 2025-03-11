@@ -9,7 +9,7 @@
     <summary><b>📝 My Statistics</b> (click here)</summary>
     <br/>
   <a href="https://github.com/RyuXyro">
-    <img align="center" alt="RyuXyro Stats" src="https://gh-readme-stats-theta.vercel.app/api?username=ryuxyro&show_icons=true&theme=tokyonight&hide_border=true"/>
+    <img align="center" alt="RyuXyro Stats" src="https://gh-readme-stats-rx.vercel.app/api?username=ryuxyro&show_icons=true&theme=tokyonight&hide_border=true"/>
   </a>
   <br>
   <a href="https://github.com/RyuXyro">
@@ -17,11 +17,11 @@
   </a>
   <br>
     <a href="https://github.com/RyuXyro">
-        <img align="center" alt="RyuXyro Top Language" src="https://gh-readme-stats-theta.vercel.app/api/top-langs/?username=RyuXyro&theme=tokyonight&layout=compact&hide_border=true"/>
+        <img align="center" alt="RyuXyro Top Language" src="https://gh-readme-stats-rx.vercel.app/api/top-langs/?username=RyuXyro&theme=tokyonight&layout=compact&hide_border=true"/>
     </a>
     <br>
     <a href="https://github.com/RyuXyro">
-        <img align="center" alt="Fake wakatime" src="https://gh-readme-stats-theta.vercel.app/api/wakatime?username=RyuXyro&layout=compact&theme=tokyonight&hide_border=true">
+        <img align="center" alt="Fake wakatime" src="https://gh-readme-stats-rx.vercel.app/api/wakatime?username=RyuXyro&layout=compact&theme=tokyonight&hide_border=true">
     </a>
 </details>
 <br>
