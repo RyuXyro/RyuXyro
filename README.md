@@ -13,7 +13,7 @@
   </a>
   <br>
   <a href="https://github.com/RyuXyro">
-    <img align="center" alt="RyuXyro Github Trophy" src="https://piala.isekai.eu.org/?username=RyuXyro&theme=tokyonight&row=2&column=4&no-frame=true"/>
+    <img align="center" alt="RyuXyro Github Trophy" src="https://gh-profile-trophy.vercel.app/?username=RyuXyro&theme=tokyonight&row=2&column=4&no-frame=true"/>
   </a>
   <br>
     <a href="https://github.com/RyuXyro">
