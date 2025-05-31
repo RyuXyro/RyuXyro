@@ -49,6 +49,16 @@ console.log("Hello All 👋")
 
 <hr>
 
+<h1>Support Me</h1>
+<p>BTC Address : bc1q7k7kshs3hpjcetz8l2cdmm443z0szjyx7p0s9j</p>
+<br>
+<p>TON Address : EQAj7vKLbaWjaNbAuAKP1e1HwmdYZ2vJ2xtWU8qq3JafkfxF</p>
+<p>TON Memo/Tag : 790587</p>
+<br>
+<p>ARB Address : 0xB53D03740410665134578778932DD1Feb39363f7</p>
+
+<hr>
+
 Cute Counting:<br>
 <a href="https://github.com/RyuXyro">
     <img alt="Cute count" src="http://moe-count.glitch.me/get/@ryuxyro?theme=rule34"/>
