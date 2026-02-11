@@ -31,7 +31,7 @@
 ```typescript
 export default class about_me {
     onInit() {
-        this.user_name = "Risky Aditiya Pramono"
+        this.user_name = "Risky Aditiya"
         this.user_age = 17
         this.user_country = "Indonesia"
         this.user_language = ["English", "Indonesian", "Javanese"]
