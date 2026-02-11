@@ -41,7 +41,7 @@ export default class about_me {
     onProgramming() {
         this.program_language = ["JavaScript", "TypeScript", "HTML", "C#"]
         this.developer_tools = ["Github", "VS Code", "SQLite", "MongoDB"]
-        this.operating_system = ["Windows 10", "Windows 7", "Debian 12", "Kali Linux"]
+        this.operating_system = ["Windows 10", "Windows 7", "Debian 11/12/13", "Kali Linux"]
     }
 }
 console.log("Hello All 👋")
