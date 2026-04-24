@@ -61,7 +61,8 @@ console.log("Hello All 👋")
 
 Cute Counting:<br>
 <a href="https://github.com/RyuXyro">
-    <img alt="Cute count" src="http://moe-count.glitch.me/get/@ryuxyro?theme=rule34"/>
+    <!-- <img alt="Cute count" src="http://moe-count.glitch.me/get/@ryuxyro?theme=rule34"/> -->
+    <img alt="Cute count" src="https://count.getloli.com/@ryuxyro?name=ryuxyro&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1"/>
   </a>
 ![](https://hit.yhype.me/github/profile?user_id=131745729)
 <!---
